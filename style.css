@@ -1,0 +1,26 @@
+* {
+    margin: 5px;
+}
+
+h2 {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+.container {
+    float: left;
+    width: 600px;
+    height: 600px;
+    border: 2px solid #a0a0a0;
+}
+
+.theme-button {
+    float: right;
+}
+
+textarea {
+    width: 550px;
+    margin: 10px;
+    height: 500px;
+}
+
+
